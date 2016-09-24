@@ -1,0 +1,9 @@
+{
+    "name": "Beautiful Time",
+    "author": "Will Manidis",
+    "caption": "A Simple and Beautiful Clock for tingbot",
+    "version": "0.1",
+    "twitter": "@WillManidis",
+    "website": "https://github.com/WillManidis/BeautifulTime",
+    "background_color": "70C1B3"
+}
